@@ -1,4 +1,4 @@
-Hello! My name is Márcip Bahia, i’m a full stack developer that loves everything about coding. I currently study as a ReactJs, Node.js and React Native.
+Hello! My name is Márcip Bahia, i’m a full stack developer that loves everything about coding. I currently study ReactJs, Node.js and React Native, Python and PHP.
 
 
 <img align="right" src="https://github.com/josepholiveira/josepholiveira/blob/master/images/illustration.png" width="300"/>
