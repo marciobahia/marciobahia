@@ -1,4 +1,5 @@
 ### Hi there 👋
+![illustration](https://user-images.githubusercontent.com/42573399/123119493-f7b46e00-d419-11eb-8a51-f8df4052765c.png)
 
 <!--
 **marciobahia/marciobahia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
