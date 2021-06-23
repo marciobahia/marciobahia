@@ -4,7 +4,6 @@ Hello! My name is Márcip Bahia, i’m a full stack developer that loves everyth
 
 
 
-<img align="right" src="https://github.com/josepholiveira/josepholiveira/blob/master/images/illustration.png" width="300"/>
 <!--
 **marciobahia/marciobahia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
