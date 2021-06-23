@@ -6,8 +6,8 @@ Linkedin: https://www.linkedin.com/in/márcio-sella-bahia-9b73bb19b/
 <img align="right" src="https://github.com/marciobahia/marciobahia/blob/main/illustration.png" width="300"/>
 
 Facebook: https://www.facebook.com/marcio.sellabahia
-
 E-mail: marciosellabahia@hotmail.com
+Twiter: https://twitter.com/agentebahia
 
 
 
