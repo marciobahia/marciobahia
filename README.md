@@ -11,7 +11,7 @@ Facebook: https://www.facebook.com/marcio.sellabahia
 
 E-mail: marciosellabahia@hotmail.com
 
-Twiter: https://twitter.com/agentebahia
+
 
 
 
