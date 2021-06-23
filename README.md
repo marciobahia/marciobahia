@@ -1,5 +1,7 @@
-Hello!My name. is Márcip Bahia
-https://raw.githubusercontent.com/josepholiveira/josepholiveira/master/images/illustration.png()
+Hello! My name is Márcip Bahia, i’m a full stack developer that loves everything about coding. I currently study as a ReactJs, Node.js and React Native.
+
+
+![illustration](https://user-images.githubusercontent.com/42573399/123120852-0a7b7280-d41b-11eb-8476-d2256bb7fc0e.png)
 
 
 <!--
