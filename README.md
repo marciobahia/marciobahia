@@ -3,7 +3,7 @@ Hello! My name is Márcip Bahia, i’m a full stack developer that loves everyth
 
 ![illustration](https://user-images.githubusercontent.com/42573399/123120852-0a7b7280-d41b-11eb-8476-d2256bb7fc0e.png)
 
-
+<img align="right" src="https://github.com/josepholiveira/josepholiveira/blob/master/images/illustration.png" width="300"/>
 <!--
 **marciobahia/marciobahia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
