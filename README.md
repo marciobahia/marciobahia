@@ -67,6 +67,6 @@ I have also worked with **C#**, **SQL Server**, **PHP**, **MySQL**, **Python** a
 The only certainty I have is that learning is an endless road and I want to stay on it. So, I love technology, coffee and applying knowledge to solve problems, **create solutions and impact lives**. :purple_heart:
 
 
-[![Instagram Badge](https://img.shields.io/badge/-marciobahia.s-6633cc?style=flat-square&labelColor=6633cc&logo=instagram&logoColor=white&link=https://www.instagram.com/marciobahia/)](https://www.instagram.com/bahiainspetor/) 
+[![Instagram Badge](https://img.shields.io/badge/-marciobahia-6633cc?style=flat-square&labelColor=6633cc&logo=instagram&logoColor=white&link=https://www.instagram.com/marciobahia/)](https://www.instagram.com/bahiainspetor/) 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Marcio%20Sella%20Bahia-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-gon%C3%A7alves-santana/)](https://www.linkedin.com/in/márcio-sella-bahia-9b73bb19b/) 
