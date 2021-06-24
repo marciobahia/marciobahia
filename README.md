@@ -61,7 +61,7 @@ The only certainty I have is that learning is an endless road and I want to stay
 
 
 [![Instagram Badge](https://img.shields.io/badge/-marciobahia.s-6633cc?style=flat-square&labelColor=6633cc&logo=instagram&logoColor=white&link=https://www.instagram.com/marciobahia.s/)](https://www.instagram.com/bahiainspetor/) 
-![Linkedin Badge](https://img.shields.io/badge/-Rodrigo%20Gonçalves%20Santana-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-gon%C3%A7alves-santana/)](https://https://www.linkedin.com/in/márcio-sella-bahia-9b73bb19b/) 
+![Linkedin Badge](https://img.shields.io/badge/-Marcio%20Gonçalves%20Santana-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-gon%C3%A7alves-santana/)](https://https://www.linkedin.com/in/márcio-sella-bahia-9b73bb19b/) 
 
 
 
