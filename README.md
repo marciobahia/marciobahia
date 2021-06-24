@@ -60,5 +60,7 @@ I have also worked with **C#**, **SQL Server**, **PHP**, **MySQL**, **Python** a
 The only certainty I have is that learning is an endless road and I want to stay on it. So, I love technology, coffee and applying knowledge to solve problems, **create solutions and impact lives**. :purple_heart:
 
 Linkedin: https://www.linkedin.com/in/márcio-sella-bahia-9b73bb19b/
+
 Facebook: https://www.facebook.com/marcio.sellabahia
+
 E-mail: marciosellabahia@hotmail.com
