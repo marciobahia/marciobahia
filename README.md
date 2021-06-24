@@ -1,5 +1,7 @@
 ### Hey there 👋
 
+<img align="right" src="https://github.com/marciobahia/marciobahia/blob/main/illustration.png" width="200"/>
+
 **I'm Márcio Sella Bahia 👨‍🚀**. I'm a developer websites, mobile apps and APIs. Currently my stack is: 
 
 :computer: Web front-end development with **ReactJs** <br/>
@@ -7,7 +9,6 @@
 :satellite: API with **NodeJs** <br/>
 :floppy_disk: Database: **Postgres**, **Mongo**, **Redis**, **Firebase (Cloud Firestore/Real Time)**, **SQL Server**, **MySQL** <br/>
 
-<img align="right" src="https://github.com/marciobahia/marciobahia/blob/main/illustration.png" width="200"/>
 
 
 But, I also used it in projects: 
