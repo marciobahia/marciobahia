@@ -1,8 +1,8 @@
-### Hey there 👋
-
 <img align="right" src="https://github.com/marciobahia/marciobahia/blob/main/illustration.png" width="200"/>
 
 
+
+### Hey there 👋
 
 
 **I'm Márcio Sella Bahia 👨‍🚀**. I'm a developer websites, mobile apps and APIs. Currently my stack is: 
