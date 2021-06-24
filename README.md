@@ -7,7 +7,8 @@
 :satellite: API with **NodeJs** <br/>
 :floppy_disk: Database: **Postgres**, **Mongo**, **Redis**, **Firebase (Cloud Firestore/Real Time)**, **SQL Server**, **MySQL** <br/>
 
-<img = "https://github.com/marciobahia/marciobahia/blob/main/illustration.png" width:300 />
+<img align="right" src="https://github.com/marciobahia/marciobahia/blob/main/illustration.png" width="200"/>
+
 
 But, I also used it in projects: 
 
