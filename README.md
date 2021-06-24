@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-**I'm Rodrigo Gonçalves Santana 👨‍🚀**. I'm a developer websites, mobile apps and APIs. Currently my stack is: 
+**I'm Márcio Sella Bahia 👨‍🚀**. I'm a developer websites, mobile apps and APIs. Currently my stack is: 
 
 :computer: Web front-end development with **ReactJs** <br/>
 :iphone: Mobile applications for Android and iOS with **React Native** <br/> 
@@ -47,9 +47,8 @@ But, I also used it in projects:
 <img src="https://code-maven.com/img/python.png" height="35px" />   
 </p>
 
-:mortar_board: I am graduated in Information Systems, master in education, postgraduate in Project Management PMI (Project Management Institute). 
-
-:memo: I have certifications: Microsoft, Oracle and Autodesk.
+:mortar_board: i’m a full stack developer that loves everything about coding. I currently study ReactJs, Node.js, React Native, Python and PHP. I am attending the third semester of the Faculty of Analysis and Systems Development at Estácio de Sá.
+). 
 
 
 I also love **UX Design** :heart_eyes:. I like to create beautiful interfaces to provide the user with a great experience. To create prototypes I use **Figma**, but I also know how to work with **Adobe XD** and I use **Photoshop CC** for edit images.
